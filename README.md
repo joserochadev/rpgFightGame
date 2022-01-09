@@ -1,4 +1,6 @@
 # rpgFightGame
 ## text rpg fighting game
 
-> Status
+> Status: complete
+
+
